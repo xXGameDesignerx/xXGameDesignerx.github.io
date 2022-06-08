@@ -1,0 +1,10 @@
+img{
+    border: 1px solid var(--green);
+	border-radius: 4px;
+	overflow: hidden;
+}
+article {
+	border: 1px solid var(--light-blue);
+	border-radius: 4px;
+	overflow: hidden;
+}
