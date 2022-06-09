@@ -1,0 +1,23 @@
+header{
+    width: 1000px;
+    height: 100px;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: space-around;
+    justify-content: space-between;
+    align-items: center;
+}
+#logo{
+    margin-left: 2rem;
+}
+#logo img{
+    height: 90px;
+}
+nav{
+    margin-right: 2rem;
+    display: flex;
+    width: 350px;
+    justify-content: space-around;
+}
