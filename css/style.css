@@ -11,7 +11,8 @@ nav a {
     color: white;
 }
 
-nav a:hover {
+nav a:hover,
+a:hover {
     background: grey;
 }
 
