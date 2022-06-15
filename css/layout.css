@@ -18,7 +18,9 @@ main {
 
 header {
     padding: 2rem 0;
-    padding-left: 7rem;
+    padding-left: 2rem;
+    margin-left: 7rem;
+    margin-right: 85rem;
 }
 header h1 {
     font-size: 3rem;
