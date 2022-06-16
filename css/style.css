@@ -3,9 +3,13 @@ html {
 }
 header{
     background-color: antiquewhite;
+    border: 2px solid darkgrey;
 }
 header span {
     color: blue;
+}
+header img {
+    border: 2px solid darkgrey;
 }
 nav {
     background: black;
@@ -25,4 +29,16 @@ h1,h2,p, li {
 footer {
     background-color: grey;
     color: azure;
+}
+#Projects {
+    background-color: rgba(255, 166, 0, 0.692);
+    border: 2px solid darkgrey;
+}
+#aboutMe {
+    background-color: rgba(255, 166, 0, 0.692);
+    border: 2px solid darkgrey;
+}
+#getinTouch {
+    background-color: rgba(255, 166, 0, 0.692);
+    border: 2px solid darkgrey;
 }

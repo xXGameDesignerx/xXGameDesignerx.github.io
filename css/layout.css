@@ -10,9 +10,14 @@ html {
     margin-top: 3rem;
 }
 
+h1,
+h2,
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 main {
-    max-width: 800px;
+    max-width: 900px;
     margin: 0 auto;
 }
 
@@ -66,11 +71,31 @@ section ul {
     padding-left: 1.5rem;
 }
 
+p,
+span,
+li {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 #project {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: auto;
     grid-column-gap: 1rem;
+}
+
+#Projects {
+    border-radius: 3rem;
+    padding: 2.5rem;
+}
+
+#aboutMe {
+    border-radius: 3rem;
+    padding: 2.5rem;
+}
+#getinTouch {
+    border-radius: 3rem;
+    padding: 2.5rem;
 }
 
 #project article {
