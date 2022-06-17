@@ -19,9 +19,10 @@ nav a {
     color: white;
 }
 
-nav a:hover,
 a:hover {
     background: grey;
+    transition: 1s;
+    transform:scale(1.2);
 }
 
 h1,
