@@ -1,19 +1,20 @@
-html {
-    background-color:rgba(175, 238, 238, 0.445);
-}
-header{
+header {
     background-color: antiquewhite;
     border: 2px solid darkgrey;
 }
+
 header span {
     color: blue;
 }
+
 header img {
     border: 2px solid darkgrey;
 }
+
 nav {
     background: black;
 }
+
 nav a {
     color: white;
 }
@@ -23,22 +24,29 @@ a:hover {
     background: grey;
 }
 
-h1,h2,p, li {
-    color: grey;
+h1,
+h2,
+p,
+li {
+    color: purple;
 }
+
 footer {
     background-color: grey;
     color: azure;
 }
+
 #Projects {
-    background-color: rgba(255, 166, 0, 0.692);
+    background-color: rgba(255, 166, 0, 0.932);
     border: 2px solid darkgrey;
 }
+
 #aboutMe {
-    background-color: rgba(255, 166, 0, 0.692);
+    background-color: rgba(255, 166, 0, 0.932);
     border: 2px solid darkgrey;
 }
+
 #getinTouch {
-    background-color: rgba(255, 166, 0, 0.692);
+    background-color: rgba(255, 166, 0, 0.932);
     border: 2px solid darkgrey;
 }
